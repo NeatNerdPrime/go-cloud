@@ -30,7 +30,7 @@ require (
 	github.com/gorilla/mux v1.8.0
 	github.com/streadway/amqp v1.0.0
 	go.opencensus.io v0.23.0
-	gocloud.dev v0.23.0
+	gocloud.dev v0.24.0
 	gocloud.dev/docstore/mongodocstore v0.23.0
 	gocloud.dev/pubsub/kafkapubsub v0.23.0
 	gocloud.dev/pubsub/natspubsub v0.23.0
